@@ -1,1 +1,1 @@
-# Javascript Object Methods
+# ARRAY METHOD IN JAVASCRIPT
